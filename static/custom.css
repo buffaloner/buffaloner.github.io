@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Damion&family=Kaushan+Script&family=Mr+Dafoe&family=Permanent+Marker&family=Playball&family=Satisfy&family=Seaweed+Script&family=Yellowtail&display=swap');
+
+[data-link] {
+    cursor: pointer;
+}
+
+#quotes {
+    text-align: center;
+    text-justify: distribute;
+    color: rgb(207, 36, 36);
+    font-size: 2.5rem;
+    padding: 12px 30px;
+}
+
+blockquote {
+    border: none;
+    position: relative;
+    font-family: 'Permanent Marker', sans-serif;
+}
+
+blockquote h3 {
+    font-size: 21px;
+}
+
+blockquote h3:before {
+    padding: 12px 30px;
+    content: "\201C";
+    font-weight: bold;
+    font-size: 100px;
+    color: #4d5590;
+    position: absolute;
+    top: -0.2em;
+    left: -0.5em;
+    font-family: 'Georgia';
+}
+
+blockquote h3:after {
+    content: "\201D";
+    font-weight: bold;
+    font-size: 100px;
+    color: #4d5590;
+    position: absolute;
+    bottom: -0.6em;
+    right: 0;
+    font-family: 'Georgia';
+    padding: 12px 30px;
+}
