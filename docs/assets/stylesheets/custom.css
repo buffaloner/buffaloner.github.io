@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Damion&family=Kaushan+Script&family=Mr+Dafoe&family=Permanent+Marker&family=Playball&family=Satisfy&family=Seaweed+Script&family=Yellowtail&display=swap');
+.md-logo img {
+  border-radius: 50%;
+}
+
+/* Hex Colors for Light Mode (default) */
+[data-md-color-scheme="default"] {
+  --md-primary-color:        #00338D; /* Bills Blue */
+  --md-primary-color--light:  #A8AAAD; /* Typical Grey */
+  --md-primary-color--dark:   #000000; /* Just Go With Black */
+  
+  --md-accent-color:         #F58521; /* Bandit Orange */
+  --md-accent-color--light:  #FCB514; 
+  --md-accent-color--dark:   #C60C30;
+}
+
+/* Hex Colors for Dark Mode (slate) */
+[data-md-color-scheme="slate"] {
+  --md-primary-color:        #002654; /* Dark Navy Era Bills Blue */
+  --md-primary-color--light:  #1b263b;
+  --md-primary-color--dark:   #005BBB;
+  
+  --md-accent-color:         #00b4d8; /* Dark mode accent hex default */
+}
+/* My Kind Be Kind */
+
+
+[data-link] {
+    cursor: pointer;
+}
+
+#quotes {
+    text-align: center;
+    text-justify: distribute;
+    color: rgb(207, 36, 36);
+    font-size: 2.5rem;
+    padding: 12px 30px;
+}
+
+blockquote {
+    border: none;
+    position: relative;
+    font-family: 'Permanent Marker', sans-serif;
+}
+
+blockquote h5 {
+    font-size: 21px;
+}
+
+blockquote h5:before {
+    padding: 12px 30px;
+    content: "\201C";
+    font-weight: bold;
+    font-size: 100px;
+    color: #4d5590;
+    position: absolute;
+    top: -0.2em;
+    left: -0.5em;
+    font-family: 'Georgia';
+}
+
+blockquote h5:after {
+    content: "\201D";
+    font-weight: bold;
+    font-size: 100px;
+    color: #4d5590;
+    position: absolute;
+    bottom: -0.6em;
+    right: 0;
+    font-family: 'Georgia';
+    padding: 12px 30px;
+}
+/* Contact Page */
+
+/* 1. Only hide the H1 on pages that contain the custom form */
+.md-typeset:has(.custom-inline-form) h1:first-of-type {
+  display: none !important;
+}
+
+/* 2. Only hide breadcrumbs on pages that contain the custom form */
+.md-main:has(.custom-inline-form) nav.md-path {
+  display: none !important;
+}
+
+.custom-inline-form {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.2rem;
+  padding: 2rem;
+  background-color: var(--md-default-bg-color);
+  box-shadow: var(--md-shadow-z1);
+  max-width: 500px;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.custom-inline-form h2 {
+margin-top: 0;
+color: var(--md-primary-fg-color);
+}
+
+.custom-inline-form .form-input {
+width: 100%;
+padding: 0.6rem 0.8rem;
+margin-bottom: 1.2rem;
+border: 1px solid var(--md-default-fg-color--lighter);
+border-radius: 0.1rem;
+background-color: var(--md-default-bg-color);
+color: var(--md-default-fg-color);
+font-size: 0.9rem;
+box-sizing: border-box;
+transition: border-color 0.25s, box-shadow 0.25s;
+}
+
+.custom-inline-form .form-input:focus {
+outline: none;
+border-color: var(--md-primary-fg-color);
+box-shadow: 0 0 0 1px var(--md-primary-fg-color);
+}
+
+/* Forces the button to stretch full width for a modern form look */
+.custom-inline-form .md-button {
+width: 100%;
+margin-top: 0.5rem;
+}
