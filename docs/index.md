@@ -1,6 +1,6 @@
 # Hello-*ner*! :wave:
 
-![Why of course I know him... he's me!](../assets/images/hellothere.gif){ style="width: 100%" }
+![Why of course I know him... he's me!](assets/images/hellothere.gif){ style="width: 100%" }
 
 ## Who (Am I?)
 
@@ -16,7 +16,7 @@ One of Rochester's greatest features is the Erie Canal and Rails-to-Trails syste
 
 Growing up Catholic, and then studying other cultures and religions in college, I found that the message is the same, no matter what language, and as a part of humankind...to paraphrase my favorite author, there's only one rule that I know of, Babies....
 
-![A Human Becoming](../assets/images/vonnegut.gif)
+![A Human Becoming](assets/images/vonnegut.gif)
 
 <div style="text-align: center; font-size: 1.5em;">
 My Kind Be Kind <br>
@@ -29,7 +29,7 @@ It doesn't matter the punctuation, the meaning of the message is the same.
 
 ## Where (Else Would You Rather Be...)
 
-![When in Roam...](../assets/images/bison.jpg){ style="width: 100%" }
+![When in Roam...](assets/images/bison.jpg){ style="width: 100%" }
 
 ### ...Than Right here Right NOW!
 
