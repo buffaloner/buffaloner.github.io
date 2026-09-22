@@ -1,5 +1,5 @@
 # Ideation to Creation
-<!-- THE THINKER on a toilet -->
+![I think therefore I can](../assets/images/thinker.svg)
 ## Buffaloner Brand
 
 I created [Buffaloner Brand](https://buffalonerbrand.com/), based on my values as a human, a personal mission of kindness, and aspirations of having an expressive outlet. 
@@ -10,19 +10,26 @@ Each collection offers a specific aspect of that purpose.
 
 #### Brandings
 
+![Burnt Ends](../assets/images/BrandingsCollection.png)
+
 Buffalo as a city is unique in its self-branding. It identifies with the animal as an emblem of both independence and togetherness. I wanted to represent that identity through a brand - a BuffaLONER Brand - representing both an concept of being independent but collaborative. It's an iconic representation of my authentic self.
 
 #### [I F#@%$ng Love Buffalo](https://ifl.bfl.ooo/)
 
+![And You Shoud Too!](../assets/images/IFLBFLOOOCollection.png)
 My take on Queen City memes. Our claim to being the only NFL team in NYS, the originator of the chicken wing as a bar food staple, a place of innovation and resilience in the face of impossible hardships, from the ruination of being part of the Rustbelt, to resurging into the modern era with the same grit and tenacity that got us the nickname City of Good Neighbors.
 
 #### Bike Me
+
+![Roll On](../assets/images/BikeMeCollection.png)
 
 I'm a city kid through and through. I also know that the bicycle is the only means of transportation that delivers on the promises advertisers give for cars - that appliance that costs money sitting on the street or in your driveway just to have it, along with a bigger gas or electricity bill. In Buffalo, I found community in others who feel the same way about transportation options, feeling the pinch on their pocket at the pump.
 
 I created designs for this collection to reinforce the belief that mobility shouldn't have high hurdles due to cost, and hope to encourage people to choose their own motors when possible. With food as fuel, what's the cost of a pint at the pub compared to a gallon of gasoline these days anyway? F#@% ***^^I^^***nternal ***^^C^^***ombustion ***^^E^^***ngines, **BIKE** (*with*) **ME!**
 
 #### 4Fun
+
+![4 Reelz](../assets/images/4FunCollection.png)
 
 I like those jokes that make you think or consider a different perspective in contrast to engrained dogmas. Then again, sometimes, it's important to just be silly. 
 
@@ -31,6 +38,8 @@ Irreverance is important in life.
 Besides, I want my time spent online scrolling through memes to feel productive. I'd rather people wear the meme they want others to chuckle at and see the smile they bring in real life. Which brings me to the next collection....
 
 #### A.S.M.R.
+
+![Algo-holic in Recovery](../assets/images/ASMRCollection.png)
 
 I take the maxim of never punching down to heart, so the work you see on my storefront will never be mean spirited. This goes hand in hand with my conviction that no one should use comment sections.
 
@@ -60,5 +69,7 @@ My Kind? Be Kind!
 No matter the era or punctuation, the sentiment remains the same.
 
 #### Shameless
+
+![Life Without Shame](../assets/images/ShamelessCollection.png)
 
 And while this might be at the bottom, it's tops in my book. No one should be ashamed of who they are, or who they love. While I don't fall on the non-normative side of the continuum, I have friends and family who do. Pride might be a sin, but being Proud of who you are and who you care about shouldn't be. As an ally, I want designs in this collection to reflect inclusivity, celebration, or at the very least tolerance if not irreverence for tools of intolerance (like the pronoun game - if "**YOU**" aren't part of the conversation, then it's just gossip from your haters).
